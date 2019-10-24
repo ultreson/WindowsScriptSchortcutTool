@@ -10,7 +10,7 @@ Different scripts have roles to allow you to import or export your files from th
 
 - Clone the repository.
 
-- Put a batch file under the `batch` folder of this repository.
+- Put a batch file under the "batch" directory of this repository.
 
 - Execute the `export.bat` file (with elevated access).
 

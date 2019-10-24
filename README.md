@@ -1,4 +1,4 @@
-# WindowsScriptSchortcutTool
+# WindowsScriptShortcutTool
 
 Tool to manage batch file that are copied to `C:\Windows\System32\` for ease of access through the home menu on Windows 10.
 

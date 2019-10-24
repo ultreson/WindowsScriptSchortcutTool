@@ -1,0 +1,1 @@
+xcopy batch\*.bat C:\Windows\System32\ /-y 
